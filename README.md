@@ -1,7 +1,6 @@
 # Quiz-app-Play-Quiz-App
  Play Quiz Programming online. Built with latest (v9) Laravel Framework
-
-[![Build Status](https://img.shields.io/travis/gothinkster/laravel-realworld-example-app/master.svg)](https://travis-ci.org/arafat-web/Quiz-app) [![Gitter](https://img.shields.io/gitter/room/realworld-dev/laravel.svg)](https://gitter.im/realworld-dev/laravel) [![GitHub stars](https://img.shields.io/github/stars/gothinkster/laravel-realworld-example-app.svg)](https://github.com/arafat-web/Quiz-app/stargazers) [![GitHub license](https://img.shields.io/github/license/gothinkster/laravel-realworld-example-app.svg)](https://raw.githubusercontent.com/arafat-web/Quiz-app/master/LICENSE)
+ [![GitHub stars](https://img.shields.io/github/stars/gothinkster/laravel-realworld-example-app.svg)](https://github.com/arafat-web/Quiz-app) [![GitHub license](https://img.shields.io/github/license/gothinkster/laravel-realworld-example-app.svg)](https://raw.githubusercontent.com/arafat-web/Quiz-app/master/LICENSE)
 
 
 # Getting started
