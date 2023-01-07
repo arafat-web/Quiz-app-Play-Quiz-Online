@@ -1,7 +1,10 @@
 # Quiz-app-Play-Quiz-App
  Play Quiz Programming online. Built with latest (v9) Laravel Framework
 
-[![Stargazers](https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge)](https://github.com/arafat-web/Quiz-app/stargazers)[![Issues](https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge)](https://github.com/arafat-web/Quiz-app/issues)[![MIT License](https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge)](https://github.com/arafat-web/Quiz-app/blob/master/LICENSE.txt)
+[![Stargazers](https://img.shields.io/github/stars/arafat-web/Quiz-app?style=for-the-badge)](https://github.com/arafat-web/Quiz-app/stargazers)
+[![Issues](https://img.shields.io/github/issues/arafat-web/Quiz-app?style=for-the-badge)](https://github.com/arafat-web/Quiz-app)
+[![MIT License](https://img.shields.io/github/license/arafat-web/quiz-app?style=for-the-badge)](https://github.com/arafat-web/Quiz-app/issues)
+
 
 
 # Getting started
