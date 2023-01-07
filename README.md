@@ -1,4 +1,4 @@
-# Quiz-app-Play-Quiz-App
+# Quiz-App_Play-Quiz-Online
  Play Quiz Programming online. Built with latest (v9) Laravel Framework
 
 [![Stargazers](https://img.shields.io/github/stars/arafat-web/Quiz-app?style=for-the-badge)](https://github.com/arafat-web/Quiz-app/stargazers)
