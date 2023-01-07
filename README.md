@@ -1,6 +1,11 @@
 # Quiz-app-Play-Quiz-App
  Play Quiz Programming online. Built with latest (v9) Laravel Framework
- [![GitHub stars](https://img.shields.io/github/stars/gothinkster/laravel-realworld-example-app.svg)](https://github.com/arafat-web/Quiz-app) [![GitHub license](https://img.shields.io/github/license/gothinkster/laravel-realworld-example-app.svg)](https://raw.githubusercontent.com/arafat-web/Quiz-app/master/LICENSE)
+
+[![Contributors][https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge]][ https://github.com/arafat-web/Quiz-app/graphs/contributors]
+[![Forks][https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge]][https://github.com/arafat-web/Quiz-app/network/members]
+[![Stargazers][https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge]][https://github.com/arafat-web/Quiz-app/stargazers]
+[![Issues][https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge]][https://github.com/arafat-web/Quiz-app/issues]
+[![MIT License][https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge]][https://github.com/arafat-web/Quiz-app/blob/master/LICENSE.txt]
 
 
 # Getting started
