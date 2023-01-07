@@ -1,15 +1,7 @@
 # Quiz-app-Play-Quiz-App
  Play Quiz Programming online. Built with latest (v9) Laravel Framework
 
-[![Contributors](https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge)]( https://github.com/arafat-web/Quiz-app/graphs/contributors)
-
-[![Forks](https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badges)](https://github.com/arafat-web/Quiz-app/network/memberss)
-
-[![Stargazers](https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge)](https://github.com/arafat-web/Quiz-app/stargazers)
-
-[![Issues](https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge)](https://github.com/arafat-web/Quiz-app/issues)
-
-[![MIT License](https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge)](https://github.com/arafat-web/Quiz-app/blob/master/LICENSE.txt)
+[![Stargazers](https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge)](https://github.com/arafat-web/Quiz-app/stargazers)[![Issues](https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge)](https://github.com/arafat-web/Quiz-app/issues)[![MIT License](https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge)](https://github.com/arafat-web/Quiz-app/blob/master/LICENSE.txt)
 
 
 # Getting started
